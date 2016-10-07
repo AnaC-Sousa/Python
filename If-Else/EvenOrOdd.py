@@ -4,7 +4,7 @@ The if-else sentence will test something then execute it or not.
 
 This works best with an example. We want to test if something is true
 or false so we write if 5>4: do something. As 5 is in fact greater than 4
-it test true and will do something. But if it was false it would pass the
+it tests true and will do something. But if it was false it would pass the
 sentence.
 
 True and False are of boolean type and are quite useful when you are testing
